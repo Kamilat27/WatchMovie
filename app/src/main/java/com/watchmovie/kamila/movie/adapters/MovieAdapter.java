@@ -1,4 +1,4 @@
-package com.codepath.rkpandey.flixter.adapters;
+package com.watchmovie.kamila.movie.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,9 +15,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.codepath.rkpandey.flixter.DetailActivity;
-import com.codepath.rkpandey.flixter.R;
-import com.codepath.rkpandey.flixter.models.Movie;
+import com.watchmovie.kamila.movie.DetailActivity;
+import com.codepath.kamila.flixter.R;
+import com.watchmovie.kamila.movie.models.Movie;
 
 import org.parceler.Parcels;
 

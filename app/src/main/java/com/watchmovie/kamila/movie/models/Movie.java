@@ -1,4 +1,4 @@
-package com.codepath.rkpandey.flixter.models;
+package com.watchmovie.kamila.movie.models;
 
 import org.json.JSONArray;
 import org.json.JSONException;

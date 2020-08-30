@@ -1,4 +1,4 @@
-package com.codepath.rkpandey.flixter;
+package com.watchmovie.kamila.movie;
 
 import org.junit.Test;
 

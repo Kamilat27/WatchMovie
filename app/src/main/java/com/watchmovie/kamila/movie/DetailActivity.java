@@ -1,7 +1,4 @@
-package com.codepath.rkpandey.flixter;
-
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.ViewModelProvider;
+package com.watchmovie.kamila.movie;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -10,7 +7,8 @@ import android.widget.TextView;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
-import com.codepath.rkpandey.flixter.models.Movie;
+import com.codepath.kamila.flixter.R;
+import com.watchmovie.kamila.movie.models.Movie;
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;

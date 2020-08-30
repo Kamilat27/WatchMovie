@@ -1,4 +1,4 @@
-package com.codepath.rkpandey.flixter;
+package com.watchmovie.kamila.movie;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -9,8 +9,9 @@ import android.util.Log;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
-import com.codepath.rkpandey.flixter.adapters.MovieAdapter;
-import com.codepath.rkpandey.flixter.models.Movie;
+import com.codepath.kamila.flixter.R;
+import com.watchmovie.kamila.movie.adapters.MovieAdapter;
+import com.watchmovie.kamila.movie.models.Movie;
 
 import org.json.JSONArray;
 import org.json.JSONException;
